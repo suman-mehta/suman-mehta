@@ -1,216 +1,196 @@
-<!-- Animated Header -->
+<!-- 3D Animated Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suman%20Mehta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&customColorList=0,2,2,5,30&text=Suman%20Mehta&fontSize=70&fontColor=fff&animation=fadeIn&stroke=00ffff&strokeWidth=2" width="100%"/>
 </div>
 
-<!-- Typing Animation -->
+<!-- 3D Typing Effect -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!;Software+Developer+from+India;Always+learning+new+technologies;Building+amazing+web+experiences" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Full+Stack+Developer;3D+Animation+Enthusiast;Open+Source+Contributor;Always+Learning+New+Tech" alt="3D Typing SVG" />
+  </a>
+</div>
+
+<!-- 3D Badge Stack -->
+<div align="center">
+  <img src="https://img.shields.io/badge/🔥-Active%20Developer-red?style=for-the-badge&logo=none" />
+  <img src="https://img.shields.io/badge/📍-Bihar%2C%20India-green?style=for-the-badge&logo=none" />
+  <img src="https://img.shields.io/badge/💻-Full%20Stack%20Dev-blue?style=for-the-badge&logo=none" />
+  <img src="https://img.shields.io/badge/🚀-Open%20Source-purple?style=for-the-badge&logo=none" />
 </div>
 
 <br>
 
-<!-- Profile Views Counter -->
+<!-- 3D Profile Card -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=suman-mehta&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/suman-mehta?label=Followers&style=social" alt="GitHub Followers" />
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-widgetbox.vercel.app/api/profile?username=suman-mehta&data=followers,repositories,stars,commits&theme=dark&title_color=00ffff&icon_color=00ffff&text_color=ffffff&bg_color=0d1117" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=suman-mehta&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff&text_color=ffffff&ring_color=00ffff&border_radius=20" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
 
-<!-- About Me Section with Animation -->
+<!-- 3D Tech Stack with Floating Animation -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 
-  About Me
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> 
+  <span style="color: #00ffff;">Tech Stack 3D</span>
 </h2>
 
 <div align="center">
-  
-🔭 **Currently working on:** Web Development & Open Source Projects  
-👯 **Looking to collaborate on:** Full Stack Applications  
-🤝 **Looking for help with:** Advanced JavaScript & Cloud Technologies  
-🌱 **Currently learning:** React, Node.js, Python & DevOps  
-💬 **Ask me about:** Web Development, HTML, CSS, JavaScript  
-⚡ **Fun fact:** I love coding more than sleeping! ☕  
 
-</div>
-
-<br>
-
-<!-- Tech Stack with Animated Icons -->
-<h2 align="center">🚀 Tech Stack</h2>
-
-<div align="center">
-
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white" />
+### 🎨 Frontend Universe
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,html,css,js,ts,bootstrap,tailwind&theme=dark&perline=8" />
 </p>
 
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+### ⚙️ Backend Matrix
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,python,java,cs,c,cpp,dotnet&theme=dark&perline=7" />
 </p>
 
-### ⚙️ Backend & Database
-<p>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache-Apache%20Ant-D22128?style=for-the-badge&logo=apache&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
+### 🗄️ Database Galaxy
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql&theme=dark&perline=3" />
 </p>
 
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Packer-1DAEFF?style=for-the-badge&logo=packer&logoColor=white" />
+### ☁️ Cloud & DevOps Dimension
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,linux,git,github&theme=dark&perline=8" />
 </p>
 
-### 🛠️ Tools & Others
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=PlatformIO&logoColor=white" />
-  <img src="https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD" />
-  <img src="https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white" />
+### 🛠️ Tools & IDE
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,figma,photoshop&theme=dark&perline=5" />
 </p>
 
 </div>
 
 <br>
 
-<!-- GitHub Stats with Animation -->
-<h2 align="center">📊 GitHub Statistics</h2>
+<!-- 3D Contribution Stats -->
+<h2 align="center">🌌 3D Contribution Galaxy</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=suman-mehta&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=suman-mehta&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suman-mehta&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suman-mehta&bg_color=0d1117&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=16" width="95%" />
 </div>
 
 <br>
 
-<!-- GitHub Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
+<!-- 3D Stats Cards -->
+<h2 align="center">📊 3D Statistics Matrix</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=suman-mehta&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=suman-mehta&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff&text_color=ffffff&border_radius=20&card_width=450" height="200" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=suman-mehta&theme=radical&hide_border=true&background=0d1117&stroke=00ffff&ring=00ffff&fire=ff6b6b&currStreakLabel=00ffff&sideLabels=ffffff&dates=ffffff&border_radius=20" height="200" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suman-mehta&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff&border_radius=20" width="40%" />
 </div>
 
 <br>
 
-<!-- Contribution Graph -->
-<h2 align="center">📈 Contribution Graph</h2>
+<!-- 3D Trophy Case -->
+<h2 align="center">🏆 3D Trophy Hall</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suman-mehta&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=suman-mehta&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" width="100%" />
 </div>
 
 <br>
 
-<!-- Social Links with Animation -->
-<h2 align="center">🌐 Connect With Me</h2>
+<!-- 3D Metrics -->
+<h2 align="center">🎯 3D Performance Metrics</h2>
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://suman-mehta.github.io/My-website-/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suman-mehta)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itz_suman_mehta__/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Suman-Mehta/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itz_suman_mehta)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suman-mehta)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@suman-mehta)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/suman-mehta)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/suman-mehta)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@suman-mehta)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/suman-mehta)
-[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)](https://quora.com/profile/suman-mehta)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/suman-mehta)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/suman-mehta)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@suman-mehta)
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/suman-mehta)
-[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://mastodon.social/@suman-mehta)
+![Metrics](https://metrics.lecoq.io/suman-mehta?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&isocalendar=1&isocalendar.duration=half-year&languages=1&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FCalcutta&config.octicon=true&config.display=columns)
 
 </div>
 
 <br>
 
-<!-- Random Quote -->
-<h2 align="center">✍️ Random Dev Quote</h2>
+<!-- 3D Social Links -->
+<h2 align="center">🌐 Connect in 3D</h2>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white)](https://suman-mehta.github.io/My-website-/)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suman-mehta)
+[![Instagram](https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itz_suman_mehta__/)
+[![Facebook](https://img.shields.io/badge/👥_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/people/Suman-Mehta/)
+[![Twitter](https://img.shields.io/badge/🐦_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itz_suman_mehta)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suman-mehta)
+[![YouTube](https://img.shields.io/badge/▶️_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@suman-mehta)
+[![Discord](https://img.shields.io/badge/💬_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/suman-mehta)
+
 </div>
 
 <br>
 
-<!-- Support Section -->
-<h2 align="center">💰 Support My Work</h2>
+<!-- 3D Quote -->
+<h2 align="center">💭 3D Wisdom</h2>
 
 <div align="center">
-  
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/suman-mehta)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/suman-mehta)
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/suman-mehta)
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/suman-mehta)
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" width="80%" />
 </div>
 
 <br>
 
-<!-- Snake Animation -->
-<h2 align="center">🐍 Contribution Snake</h2>
+<!-- 3D Snake Animation -->
+<h2 align="center">🐍 3D Contribution Snake</h2>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suman-mehta/suman-mehta/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suman-mehta/suman-mehta/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/suman-mehta/suman-mehta/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/suman-mehta/suman-mehta/output/github-contribution-grid-snake.svg" width="100%" />
   </picture>
 </div>
 
 <br>
 
-<!-- Footer -->
+<!-- 3D Spotify (if you want to add later) -->
+<!-- <h2 align="center">🎵 3D Spotify Vibes</h2>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=00ffff&bar_color_cover=false" />
+</div> -->
+
+<!-- 3D Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&animation=twinkling" width="100%" />
 </div>
 
 <div align="center">
   
-### ⭐️ From [Suman Mehta](https://github.com/suman-mehta) with ❤️
+### ✨ Crafted with passion by **Suman Mehta** ✨
 
-**"Code is like humor. When you have to explain it, it's bad."** – Cory House
+<img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Powered%20by-☕%20Coffee-brown?style=for-the-badge" />
+
+**"The only way to do great work is to love what you do"** – Steve Jobs
 
 </div>
+
+<!-- Hidden 3D Effect Script (for GitHub pages) -->
+<!--
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suman-mehta/suman-mehta/main/3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suman-mehta/suman-mehta/main/3d-contrib/profile-season-animate.svg">
+  <img alt="3D Contribution" src="https://raw.githubusercontent.com/suman-mehta/suman-mehta/main/3d-contrib/profile-season-animate.svg">
+</picture>
+-->
