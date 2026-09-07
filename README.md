@@ -575,17 +575,22 @@
     </tr>
     <tr>
       <td>
+        <a href="https://www.linkedin.com/in/suman-mehta-in/">
+          <img src="https://img.shields.io/badge/💼_LINKEDIN-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=000000" height="40" alt="Suman Mehta LinkedIn Profile"/>
+        </a>
+      </td>
+      <td>
         <a href="https://github.com/suman-mehta">
           <img src="https://img.shields.io/badge/💻_GITHUB-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;labelColor=000000" height="40" alt="Suman Mehta GitHub Profile"/>
         </a>
       </td>
       <td>
-        <a href="https://twitter.com/itz_suman_mehta">
+        <a href="https://x.com/itz_suman_mehta">
           <img src="https://img.shields.io/badge/🐦_TWITTER-1DA1F2?style=for-the-badge&amp;logo=twitter&amp;logoColor=white&amp;labelColor=000000" height="40" alt="Suman Mehta Twitter Profile"/>
         </a>
       </td>
       <td>
-        <a href="https://www.instagram.com/itz_suman_mehta__/">
+        <a href="https://www.instagram.com/suman_mehta.me">
           <img src="https://img.shields.io/badge/📸_INSTAGRAM-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white&amp;labelColor=000000" height="40" alt="Suman Mehta Instagram Profile"/>
         </a>
       </td>
@@ -606,12 +611,13 @@
 
 <p align="center">
   <strong>Portfolio:</strong> <a href="https://sumanmehta.in/">sumanmehta.in</a> |
+  <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/suman-mehta-in/">linkedin.com/in/suman-mehta-in</a> |
   <strong>GitHub:</strong> <a href="https://github.com/suman-mehta">github.com/suman-mehta</a> |
   <strong>Dev.to:</strong> <a href="https://dev.to/suman_mehta">dev.to/suman_mehta</a> |
   <strong>Hashnode:</strong> <a href="https://suman-mehta.hashnode.dev">suman-mehta.hashnode.dev</a> |
   <strong>Blogger:</strong> <a href="https://suman-mehta.blogspot.com">suman-mehta.blogspot.com</a> |
-  <strong>Twitter:</strong> <a href="https://twitter.com/itz_suman_mehta">@itz_suman_mehta</a> |
-  <strong>Instagram:</strong> <a href="https://www.instagram.com/itz_suman_mehta__/">@itz_suman_mehta__</a> |
+  <strong>Twitter/X:</strong> <a href="https://x.com/itz_suman_mehta">@itz_suman_mehta</a> |
+  <strong>Instagram:</strong> <a href="https://www.instagram.com/suman_mehta.me">@suman_mehta.me</a> |
   <strong>Email:</strong> <a href="mailto:Sumankumar438@gmail.com">Sumankumar438@gmail.com</a>
 </p>
 
