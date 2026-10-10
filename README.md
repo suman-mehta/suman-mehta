@@ -170,7 +170,7 @@ Portfolio & more work: [sumanmehta.in](https://sumanmehta.in)
   <strong>Portfolio:</strong> <a href="https://sumanmehta.in">sumanmehta.in</a> |
   <strong>GitHub:</strong> <a href="https://github.com/suman-mehta">github.com/suman-mehta</a> |
   <strong>X:</strong> <a href="https://x.com/itz_suman_mehta">@itz_suman_mehta</a> |
-  <strong>Email:</strong> <a href="mailto:Sumankumar438@gmail.com">Sumankumar438@gmail.com</a>
+  <strong>Email:</strong> <a href="mailto:Sumankumardphs438@gmail.com">Sumankumar438@gmail.com</a>
 </p>
 
 ---
